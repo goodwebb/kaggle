@@ -4,3 +4,7 @@
 ---
 ## 作品目錄:
 1.[imdb電影分析](https://www.kaggle.com/goodwebb/movie-eda-by-plotly-chinese-version/notebook)
+2.[Spook文字探勘](https://www.kaggle.com/goodwebb/spooky-eda-chinese-version/notebook)
+3.[Taxi分析](https://www.kaggle.com/goodwebb/taxi-trip-by-nyc-eda/notebook)
+
+
